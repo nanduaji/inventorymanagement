@@ -116,7 +116,7 @@ const App = () => {
                   <td>{product.id}</td>
                   <td>{product.name}</td>
                   <td>${product.price}</td>
-                  <td>
+                  <td >
                     <button className="btn btn-warning btn-sm" onClick={() => openModal(product)}>
                       Edit
                     </button>
