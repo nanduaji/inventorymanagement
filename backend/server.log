@@ -1,0 +1,5 @@
+{"level":"info","message":"Server is running on http://localhost:3001","timestamp":"2025-03-01T15:36:07.299Z"}
+{"level":"info","message":"Fetching all products","timestamp":"2025-03-01T15:36:15.108Z"}
+{"level":"info","message":"Fetching all products","timestamp":"2025-03-01T15:36:15.113Z"}
+{"level":"info","message":"Product added: {\"id\":6,\"name\":\"sgdsgb\",\"price\":554}","timestamp":"2025-03-01T15:36:21.801Z"}
+{"level":"info","message":"Fetching all products","timestamp":"2025-03-01T15:36:21.805Z"}
